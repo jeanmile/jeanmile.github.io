@@ -1,2 +1,2 @@
 # jeanmile.github.io
-Mon CV
+website
