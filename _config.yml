@@ -1,0 +1,38 @@
+# Site settings
+title: Jean-Michel LE
+email: jeanmile.le@gmail.com
+url: https://jeanmile.github.io
+
+# Contact form: comment the line below if you want to stick with the default PHP contact form
+contact: static
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 848484
+  secondary: 233140
+  secondary-dark: FAEBD7
+  header: faebd7
+  link: ff8000
+
+# Footer settings
+footer:
+  copyright: Jean-Michel LE
+  theme: Theme based on Freelancer bootstrap
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/jekyllrb
+  - title: stack-overflow
+    url: http://stackoverflow.com/questions/tagged/jekyll
+  - title: github
+    url: http://github.com/jekyll
+  - title: linkedin
+    url: http://github.com/jekyll
+
+# Credits content
+credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+
+# Build settings
+markdown: kramdown
+permalink: pretty
