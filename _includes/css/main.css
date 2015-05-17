@@ -339,3 +339,9 @@ footer .footer-below {
     padding: 0.5em 2em;
     font-size: 110%;
 }
+.noStyle {
+    color : white;
+}
+.calendar {
+    margin-top: 2em;
+}
