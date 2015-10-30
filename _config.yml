@@ -2,6 +2,7 @@
 title: Jean-Michel LE
 email: jeanmile.le@gmail.com
 url: https://jeanmile.github.io
+baseurl: ""
 
 # Contact form: comment the line below if you want to stick with the default PHP contact form
 contact: static

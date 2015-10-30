@@ -17,10 +17,13 @@ a.active {
     outline: none;
     color: #{{ site.color.link }};
 }
+
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li.active > a {
     background-color: #FF9966;
+    color: white;
 }
+
 h1,
 h2,
 h4,
@@ -59,20 +62,12 @@ hr.star-light:after {
     background-color: #faebd7;
     color: white;
 }
-hr.star-primary {
-    border-color: #848484;
-}
-hr.star-primary:after {
-    background-color: #{{ site.color.primary }};
-    color: #848484;
-}
 .img-centered {
     margin: 0 auto;
 }
 header {
     text-align: center;
     background: #{{ site.color.header }};
-    color: #2c3e50;
 }
 header .container {
     padding-top: 100px;
@@ -88,8 +83,8 @@ header img {
 }
 header .intro-text .name {
     display: block;
-    font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-weight: 500;
+    font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 900;
     font-size: 1.5em;
 }
 header .intro-text .skills {
@@ -133,10 +128,6 @@ header .intro-text .skills {
 }
 .navbar .navbar-nav {
     letter-spacing: 1px;
-}
-.navbar .navbar-nav li a:focus {
-    outline: none;
-    color: #720B87;
 }
 .navbar-default,
 .navbar-inverse {
