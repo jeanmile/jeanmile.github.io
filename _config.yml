@@ -1,5 +1,6 @@
 # Site settings
-title: Jean-Michel LE
+firstname: Jean-Michel
+lastname: LE
 email: jeanmile.le@gmail.com
 url: https://jeanmile.github.io
 baseurl: ""
